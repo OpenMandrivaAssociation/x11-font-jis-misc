@@ -9,6 +9,7 @@ Source: http://xorg.freedesktop.org/releases/individual/font/font-jis-misc-%{ver
 # See #38627 for licensing
 License: MIT
 BuildArch: noarch
+BuildRequires: fontconfig
 BuildRequires: x11-font-util >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.2
 Conflicts: xorg-x11 <= 6.9.0
