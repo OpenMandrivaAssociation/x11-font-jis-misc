@@ -1,6 +1,6 @@
 Name: x11-font-jis-misc
 Version: 1.0.3
-Release: %mkrel 6
+Release: 7
 Summary: Xorg X11 font jis-misc
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
