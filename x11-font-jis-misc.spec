@@ -1,6 +1,6 @@
 Name: x11-font-jis-misc
 Version: 1.0.4
-Release: 1
+Release: 2
 Summary: Xorg X11 font jis-misc
 Group: Development/X11
 URL: https://xorg.freedesktop.org
